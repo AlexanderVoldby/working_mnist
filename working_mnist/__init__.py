@@ -1,0 +1,2 @@
+from working_mnist.models.model import MyAwesomeModel
+from working_mnist.predict_model import predict
